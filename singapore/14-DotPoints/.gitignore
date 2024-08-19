@@ -6,7 +6,15 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
-
+**/target/
+**/*.rs.bk
+*.swp
+.wasm-binaries
+.vscode
+.DS_Store
+.idea/
+rls*.log
+runtime/Cargo.lock
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
