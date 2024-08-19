@@ -1,8 +1,8 @@
 [package]
 name = "TokenContract"
 version = "0.1.0"
-authors = ["[your_name] <[your_email]>"]
-edition = "2021"
+authors = ["[Arthur_Jacobina] <[email27arthur@gmail.com]>"]
+edition = "2024"
 
 [dependencies]
 ink = { version = "5.0.0", default-features = false }
