@@ -1,6 +1,6 @@
 [package]
 name = "TokenContract"
-version = "0.1.0"
+version = "5.0.0"
 authors = ["[Arthur_Jacobina] <[email27arthur@gmail.com]>"]
 edition = "2024"
 
